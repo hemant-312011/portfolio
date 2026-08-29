@@ -2,7 +2,7 @@
 
 A premium, colorful, animated developer portfolio built with **Next.js 15**, **TypeScript**, and **Tailwind CSS**, showcasing frontend engineering and Generative AI projects — RAG pipelines, multi-agent workflows, and production-grade React interfaces.
 
-**Live site:** _add your deployed URL here_
+**Live site:** (https://hemant-rao.vercel.app/)
 **Resume:** [`/public/resume.pdf`](./public/resume.pdf)
 
 ---
